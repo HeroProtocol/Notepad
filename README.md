@@ -1,5 +1,5 @@
 # Notepad
-Notepad created using C++
+Notepad in C++
 
 Using:
 -polymorphism
